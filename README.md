@@ -30,39 +30,33 @@
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Deep-Logic-Papers/blob/master/d(16).pdf" style="text-decoration:none;">Correlating neural and symbolic representations of language</a></li>
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Deep-Logic-Papers/blob/master/d(17).pdf" style="text-decoration:none;">Make Least Privilege a Right (Not a Privilege)</a></li>   
+  <li><a target="_blank" href="https://github.com/manjunath5496/Deep-Logic-Papers/blob/master/d(17).pdf" style="text-decoration:none;">Representing Meaning with a Combination
+of Logical and Distributional Models</a></li>   
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Deep-Logic-Papers/blob/master/d(18).pdf" style="text-decoration:none;">Labels and Event Processes
-in the Asbestos Operating System</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Deep-Logic-Papers/blob/master/d(18).pdf" style="text-decoration:none;">Relational inductive biases, deep learning, and graph networks</a></li> 
 
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Deep-Logic-Papers/blob/master/d(19).pdf" style="text-decoration:none;">Privacy-Preserving Browser-Side Scripting With BFlow</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Deep-Logic-Papers/blob/master/d(19).pdf" style="text-decoration:none;">Linear logic</a></li> 
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Deep-Logic-Papers/blob/master/d(20).pdf" style="text-decoration:none;">The benefits and costs of writing a
-POSIX kernel in a high-level language</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Deep-Logic-Papers/blob/master/d(20).pdf" style="text-decoration:none;">Soft Typing</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Deep-Logic-Papers/blob/master/d(21).pdf" style="text-decoration:none;">The Benefits and Costs of Writing a POSIX Kernel in a High-Level Language</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Deep-Logic-Papers/blob/master/d(22).pdf" style="text-decoration:none;">LLVM: A Compilation Framework for
-Lifelong Program Analysis and Transformation</a></li> 
- <li><a target="_blank" href="https://github.com/manjunath5496/Deep-Logic-Papers/blob/master/d(23).pdf" style="text-decoration:none;">The Benefits and Costs of Writing a POSIX
-Kernel in a High-Level Language [Cody Cutler]</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Deep-Logic-Papers/blob/master/d(21).pdf" style="text-decoration:none;">Linear types can change the world! </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Deep-Logic-Papers/blob/master/d(22).pdf" style="text-decoration:none;">An Object-Oriented Effects System </a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Deep-Logic-Papers/blob/master/d(23).pdf" style="text-decoration:none;">A Type System for Borrowing Permissions</a></li> 
  
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Deep-Logic-Papers/blob/master/d(24).pdf" style="text-decoration:none;">Separating Web Applications from User Data Storage with BSTORE</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Deep-Logic-Papers/blob/master/d(24).pdf" style="text-decoration:none;">A Certified Type-Preserving Compiler from Lambda Calculus to Assembly Language</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Deep-Logic-Papers/blob/master/d(25).pdf" style="text-decoration:none;">A Methodical Study of Web Crawler</a></li>                              
- <li><a target="_blank" href="https://github.com/manjunath5496/Deep-Logic-Papers/blob/master/d(26).pdf" style="text-decoration:none;">Certifying a File System Using
-Crash Hoare Logic: Correctness in the Presence of Crashes</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Deep-Logic-Papers/blob/master/d(27).pdf" style="text-decoration:none;">A Differential Approach to
-Undefined Behavior Detection</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Deep-Logic-Papers/blob/master/d(25).pdf" style="text-decoration:none;">Gradual Typing for Objects</a></li>                              
+ <li><a target="_blank" href="https://github.com/manjunath5496/Deep-Logic-Papers/blob/master/d(26).pdf" style="text-decoration:none;">Capabilities for Uniqueness and Borrowing</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Deep-Logic-Papers/blob/master/d(27).pdf" style="text-decoration:none;">A Verified Compiler for an Impure Functional Language</a></li>
    
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Deep-Logic-Papers/blob/master/d(28).pdf" style="text-decoration:none;">Reducing Pause Times with Clustered Collection</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Deep-Logic-Papers/blob/master/d(28).pdf" style="text-decoration:none;">Data groups: Specifying the modification of extended state</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Deep-Logic-Papers/blob/master/d(29).pdf" style="text-decoration:none;">Reducing Pause Times With Clustered Collection [Cody Cutler] </a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Deep-Logic-Papers/blob/master/d(29).pdf" style="text-decoration:none;">Separation and Information Hiding </a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Deep-Logic-Papers/blob/master/d(30).pdf" style="text-decoration:none;">Certifying Program Execution with Secure Processors</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Deep-Logic-Papers/blob/master/d(30).pdf" style="text-decoration:none;">Separation Logic: A Logic for Shared Mutable Data Structures</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Deep-Logic-Papers/blob/master/d(31).pdf" style="text-decoration:none;">Providing a Shared File System in the Hare
-POSIX Multikernel</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Deep-Logic-Papers/blob/master/d(31).pdf" style="text-decoration:none;">Modular Typestate Checking of Aliased Objects</a></li> 
 </ul>
